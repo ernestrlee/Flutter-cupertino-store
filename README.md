@@ -1,16 +1,20 @@
-# cupertinostore
+# Cupertinostore
 
-A new Flutter application.
+Cupertino Store is a Flutter UI exercise from a Google code lab.  This exercise demonstrates the
+use of Cupertino widgets that are styled for iOS, such as a date picker and bottom tab bar.
 
-## Getting Started
+The bottom tab bar switches between products, search, and shopping cart,  allowing the user to
+browse or search through products and add items to the shopping cart where a total cost is
+calculated.
 
-This project is a starting point for a Flutter application.
+Note: This is not a functional app.
 
-A few resources to get you started if this is your first Flutter project:
+## Lessons learned
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- How to use Cupertino widgets to style apps for iOS
+- How to use a bottom tab bar for navigation
+- How to use a search widget to filter data
+- How to use the Provider package for state management
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
