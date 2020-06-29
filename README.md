@@ -1,4 +1,4 @@
-# Cupertinostore
+# Cupertino Store
 
 Cupertino Store is a Flutter UI exercise from a Google code lab.  This exercise demonstrates the
 use of Cupertino widgets that are styled for iOS, such as a date picker and bottom tab bar.
